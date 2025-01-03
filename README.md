@@ -1,1 +1,1 @@
-# fitness-app-470-group2
+# fitness-app-final
