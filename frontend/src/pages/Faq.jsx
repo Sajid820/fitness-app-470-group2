@@ -64,7 +64,7 @@ const FAQ = () => {
               </div>
               <div className="collapse-content">
                 <p>
-                  If you have any additional questions or need assistance, you can contact us through the "Contact Us" page or email us at support@fitnesswebsite.com. We’re here to help!
+                  If you have any additional questions or need assistance, you can contact us.
                 </p>
               </div>
             </div>

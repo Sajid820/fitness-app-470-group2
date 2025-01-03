@@ -14,12 +14,12 @@ function About() {
         },
         {
             name: "Suha Parisa",
-            id: "2130",
+            id: "21201774",
             uni:"Brac University"
         },
         {
-            name: "Parizat",
-            id: "2130",
+            name: "Parizat Sakkhi",
+            id: "21301414",
             uni:"Brac University"
         }
     ];
